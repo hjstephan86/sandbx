@@ -1,6 +1,6 @@
 # Vorlesungsnotizen
 
-## Fr, 06.03., 15:00 - Führung durchs Stadtarchiv, Bibliothek Bielefeld
+## Fr, 06.03.2026, 15:00 - Führung durchs Stadtarchiv, Bibliothek Bielefeld
 - Herr Tieli verkauft Grundstück, erste Eintragung im Archiv
 - 1782 wird Philipp Gehring als Räuber gerichtet und erhängt
 - zeit.nrw:Archiv-Suche mit Volltext-Suche
@@ -8,7 +8,7 @@
 
 
 
-## Mi, 14.01., 08:15 - Grundlagen der Genomforschung (V)
+## Mi, 14.01.2026, 08:15 - Grundlagen der Genomforschung (V)
 
 - Kegg Pathway Database
 - Metabolome, pmdb.org.cn, chin. DB, Gifte
@@ -21,7 +21,7 @@
 
 
 
-## Di, 18.11., 15:45 - Automatisierungstechnik (V)
+## Di, 18.11.2025, 15:45 - Automatisierungstechnik (V)
 
 - Autonome deterministische Automaten
 - Matrixmultiplikation für Zustandssimulation
