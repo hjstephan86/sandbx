@@ -35,6 +35,10 @@ Chronologisch sortierte Mitschriften aus 25+ Vorlesungen, u.a.:
 - Algorithmic Cheminformatics (Wiener Index, Siedepunkte)
 - Mathematische Biologie (Geometrische Verteilung, Hypothesentests)
 
+### 3. Google Timeline Parser
+
+Das Python Skript für den Google Timeline Parser wurde dem neuen JSON FORMAT Format der Google Timeline angepasst. Das Verifikationsergebnis bestätigt die Korrektheit der Anpassung: https://claude.ai/share/06b010c1-9182-4fa5-a2aa-e4eaf28c025b.
+
 ## Verwendungszweck
 
 - **Schnellreferenz** für wiederkehrende CLI-Workflows
