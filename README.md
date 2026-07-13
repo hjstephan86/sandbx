@@ -37,26 +37,4 @@ Chronologisch sortierte Mitschriften aus 25+ Vorlesungen, u.a.:
 
 ### 3. Google Timeline Parser
 
-Das Python Skript für den Google Timeline Parser wurde dem neuen JSON FORMAT Format der Google Timeline angepasst. Das Verifikationsergebnis bestätigt die Korrektheit der Anpassung: https://claude.ai/share/06b010c1-9182-4fa5-a2aa-e4eaf28c025b.
-
-## Verwendungszweck
-
-- **Schnellreferenz** für wiederkehrende CLI-Workflows
-- **Prüfungsvorbereitung** durch strukturierte Vorlesungszusammenfassungen
-- **Wissensarchiv** für interdisziplinäre Konzepte
-- **Nachschlagewerk** für mathematische und statistische Methoden
-
-## Format
-
-Alle Dokumente sind in Markdown formatiert für:
-- Einfache Versionskontrolle mit Git
-- Plattformunabhängige Lesbarkeit
-- Konvertierung zu PDF/HTML bei Bedarf
-- Integration in Wissensmanagementsysteme
-
-## Suchhinweise
-
-Nutze die Markdown-Überschriften zur Navigation:
-- `##` für Vorlesungstermine/Tool-Namen
-- `###` für Unterthemen
-- `**Fettdruck**` für Schlüsselbegriffe
+Das Python Skript für den Google Timeline Parser wurde dem neuen JSON Format der Google Timeline angepasst. Das Verifikationsergebnis bestätigt die Korrektheit der Anpassung: https://claude.ai/share/06b010c1-9182-4fa5-a2aa-e4eaf28c025b.
