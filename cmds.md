@@ -1,11 +1,22 @@
-# cmds
+﻿# cmds
 
 ## pyreverse
+
+### Linux
 ```bash
 (venv) stephan@hp-255-17625:~/Git/umlp$ pyreverse -o dot -d doc/uml -p umlp src/
 Analysed 14 modules with a total of 10 imports
 (venv) stephan@hp-255-17625:~/Git/umlp$ sfdp -Tpdf doc/uml/classes_umlp.dot -o doc/uml/classes_umlp.pdf
 (venv) stephan@hp-255-17625:~/Git/umlp$ sfdp -Tpdf doc/uml/packages_umlp.dot -o doc/uml/packages_umlp.pdf
+```
+
+### Windows
+```bash
+PS C:\Users\sepp5\Git\gen-db> Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
+PS C:\Users\sepp5\Git\gen-db> iwr -useb get.scoop.sh | invoke-expression
+PS C:\Users\sepp5\Git\gen-db> scoop install graphviz
+
+PS C:\Users\sepp5\Git\gen-db> C:\Users\sepp5\AppData\Roaming\Python\Python312\Scripts\pyreverse.exe -o pdf -f ALL --colorized -p gen-db src/backend/
 ```
 
 ## cairosvg
@@ -125,7 +136,7 @@ uid           [ expired] F Bielefeld Poststelle <poststelle.bielefeld@polizei.nr
 
 ## grep
 ```bash
-grep -r --include="*.tex" "Subgraph-Algorithmus" . 
+grep -r --include="*.tex" "Subgraph Algorithmus" . 
 ```
 
 ## find
@@ -174,4 +185,5 @@ esm-infra        yes       enabled      Expanded Security Maintenance for Infras
 landscape        yes       disabled     Management and administration tool for Ubuntu
 livepatch        yes       enabled      Canonical Livepatch service
 ```
+
 
